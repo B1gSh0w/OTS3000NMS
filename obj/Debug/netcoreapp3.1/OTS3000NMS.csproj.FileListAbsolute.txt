@@ -1,0 +1,13 @@
+E:\项目\OTS3000NMS\bin\Debug\netcoreapp3.1\OTS3000NMS.exe
+E:\项目\OTS3000NMS\bin\Debug\netcoreapp3.1\OTS3000NMS.deps.json
+E:\项目\OTS3000NMS\bin\Debug\netcoreapp3.1\OTS3000NMS.runtimeconfig.json
+E:\项目\OTS3000NMS\bin\Debug\netcoreapp3.1\OTS3000NMS.runtimeconfig.dev.json
+E:\项目\OTS3000NMS\bin\Debug\netcoreapp3.1\OTS3000NMS.dll
+E:\项目\OTS3000NMS\bin\Debug\netcoreapp3.1\OTS3000NMS.pdb
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.csprojAssemblyReference.cache
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.AssemblyInfoInputs.cache
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.AssemblyInfo.cs
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.csproj.CoreCompileInputs.cache
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.dll
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.pdb
+E:\项目\OTS3000NMS\obj\Debug\netcoreapp3.1\OTS3000NMS.genruntimeconfig.cache
